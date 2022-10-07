@@ -1,0 +1,8 @@
+insert|1|Backordered|2020-06-01 12:00:00
+insert|1|Shipped|2020-06-09 12:00:25
+insert|2|Shipped|2020-07-11 03:05:00
+insert|1|Shipped|2020-06-09 11:50:00
+insert|3|Shipped|2020-07-12 12:00:00
+delete|1|Backordered|2020-06-01 12:00:00
+delete|1|Shipped|2020-06-09 12:00:25
+delete|1|Shipped|2020-06-09 11:50:00
